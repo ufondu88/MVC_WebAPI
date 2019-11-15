@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Uzo-Ufondu\\OneDrive\\UHCL School Work\\MS Management Information Systems\\Fall 2019\\ISAM 5338 - Advanced Internet Applications Development\\Classroom\\Desktop\\MVC_WebAPI\\MVC_WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Uzo-Ufondu\\OneDrive\\UHCL School Work\\MS Management Information Systems\\Fall 2019\\ISAM 5338 - Advanced Internet Applications Development\\Classroom\\Desktop\\MVC_WebAPI\\MVC_WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Uzo-Ufondu\\OneDrive\\UHCL School Work\\MS Management Information Systems\\Fall 2019\\ISAM 5338 - Advanced Internet Applications Development\\Classroom\\Desktop\\MVC_WebAPI\\MVC_WebAPI.csproj",
+        "projectName": "MVC_WebAPI",
+        "projectPath": "C:\\Users\\Uzo-Ufondu\\OneDrive\\UHCL School Work\\MS Management Information Systems\\Fall 2019\\ISAM 5338 - Advanced Internet Applications Development\\Classroom\\Desktop\\MVC_WebAPI\\MVC_WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Uzo-Ufondu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Uzo-Ufondu\\OneDrive\\UHCL School Work\\MS Management Information Systems\\Fall 2019\\ISAM 5338 - Advanced Internet Applications Development\\Classroom\\Desktop\\MVC_WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uzo-Ufondu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
